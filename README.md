@@ -75,8 +75,3 @@ jwt.expirationMs=86400000
 - Roles and users are linked manually by storing user_id in role table (no foreign keys).
 - Mapper interfaces help convert entities to DTOs and vice versa.
 
----
-
-## License
-
-MIT License
