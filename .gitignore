@@ -1,0 +1,41 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Eclipse/IntelliJ IDEA
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Build tools
+/build/
+
+# Environment files
+.env
+
+.idea/
+
+build.gradle
+
+.gradle/
+
+db/
+
+gradle/
+
+gradlew
+
+gradlew.bat
+
+security-demo.zip
